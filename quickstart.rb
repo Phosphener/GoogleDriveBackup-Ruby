@@ -70,29 +70,24 @@ class GoogleDrive
   # Recursively ownload every file in a folder
   def download_revisions folder_id, path
     results = @client.execute!(
-      :api_method => @drive_api.children.list,
-      :parameters => {  :maxResults => 1000,
-                        :folderId   => folder_id })
+      :api_method => @drive_api.files.list,
+      :parameters => { :q => "'#{folder_id}' in parents" })
     puts "Children: #{results.data.items.size}"
     puts "No Children found" if results.data.items.empty?
 
     results.data.items.each do |child|
 
-      file = @client.execute!(
-        :api_method => @drive_api.files.get,
-        :parameters => { :fileId => child.id })
-      file = file.data
-      new_path = "#{path}/#{file.title}"
+      new_path = "#{path}/#{child.title}"
 
-      if file.mimeType == FOLDER
+      if child.mimeType == FOLDER
         puts 'Creating folder: '+new_path
         FileUtils::mkdir_p new_path
         download_revisions child.id, new_path
 
       #Don't download if not one of these
-      elsif ALLOWED_TYPES.include? file.mimeType
-        revisions = retrieve_revisions(@client, file.id)
-        puts "Downloading #{revisions.size} revisions for #{file.title} in #{new_path}"
+      elsif ALLOWED_TYPES.include? child.mimeType
+        revisions = retrieve_revisions(@client, child.id)
+        puts "Downloading #{revisions.size} revisions for #{child.title} in #{new_path}"
         FileUtils::mkdir_p new_path
         revisions.each do |revision|
           # Download from export links as document
@@ -105,17 +100,17 @@ class GoogleDrive
           # Download file
           dl            = @client.execute!( :uri => download_url.to_s ) unless download_url.nil?
           modified_date = "#{revision['modifiedDate'].to_s.gsub(/:/,'_')}"
-          filename      = "#{file.title}_#{modified_date}_#{revision['lastModifyingUserName']}"
+          filename      = "#{child.title}_#{modified_date}_#{revision['lastModifyingUserName']}"
           extension     = "#{download_url[-4,4]}"
           output_file   = "#{new_path}/#{filename}.#{extension}"
           
           # Create downloaded file
-          puts "Creating revision: #{file.title} (#{file.id}) ID #{revision.id}"
+          puts "Creating revision: #{child.title} (#{child.id}) ID #{revision.id}"
           IO.binwrite output_file, dl.body
 
         end
-      else
-        puts "Cannot download revisions for #{file.title} (#{file.id})"
+      #else
+        #puts "Cannot download revisions for #{child.title} (#{child.id})"
       end
     end
   end
