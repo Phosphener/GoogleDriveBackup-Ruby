@@ -1,0 +1,98 @@
+Downloading 68 revisions for Software Requirement Specification (1_xNNa1xNQ5v_YBJk5VQQ7-S0y_CL4gUevN9XRN_DCDY) in Revisions/Requirement Analysis/Software Requirement Specification
+Downloading 23 revisions for Requirements Tracking Doc (1sU5kTGd6n1AyqQ5u6lK-3PLseALvDiWvvcrXHoPb6NQ) in Revisions/Requirement Analysis/Requirements Tracking Doc
+Downloading 14 revisions for User Acceptance Test Cases (1Qe0q_iBtMQziKktVz1hf6RET8QTs5LSNEOP56PLATk8) in Revisions/Requirement Analysis/User Acceptance Test Cases
+Downloading 12 revisions for Requirements Tracking Document (1_F6-ACzp5CXt0UXmmvn9gT1UAPAY0NfzOglzOs_qPBc) in Revisions/Requirement Analysis/Requirements Tracking Document
+Downloading 1 revisions for Acceptance Case-feature3.2.2.5-3.2.2.7.xlsx (1h-GeKSvkN4kyFFO0boV8nxpL0GfQf1EbDeZP38iOB-A) in Revisions/Requirement Analysis/Acceptance Case-feature3.2.2.5-3.2.2.7.xlsx
+Downloading 11 revisions for User Story Doc (1vMzBmD7-cdRR8Y--welWDIFWjgcFfrzvYey06ygEU48) in Revisions/Requirement Analysis/User Story Doc
+Downloading 6 revisions for Functional Requirements (1aHZz_7k6JnOQKoQb5Lj00hr8gRHxgl45Y5T4n2MzurE) in Revisions/Requirement Analysis/Functional Requirements
+Downloading 25 revisions for Use Cases 0.5 (1nSHFxV-mHLj7rKscFecCxMrt2qltzvtKxKtwv2-RqE8) in Revisions/Requirement Analysis/Past Version/Use Cases 0.5
+Downloading 3 revisions for 0928 - Client Meeting (11OJGvEP5HcQsnHoJIgsw1QCrVWN_-MUv_b1sSe1EYn8) in Revisions/Requirement Analysis/Client Meeting/0928 - Client Meeting
+Downloading 2 revisions for 0911 - Client meeting (1Ljzgr6a67J4NLVCwVvIr-pmZTJSyNWB7DMShjq0DXh4) in Revisions/Requirement Analysis/Client Meeting/0911 - Client meeting
+Downloading 4 revisions for Meeting 0817 (1yn_g-J1dqaib2hOBJRKuTmxFvESKjz5kgOoiFkJUIeo) in Revisions/Requirement Analysis/Client Meeting/Meeting 0817
+Downloading 6 revisions for 0605 - Client Meeting - End Iteration One (159EvKLvhoMDwG8Il63t54PxKMAg07GEs1GZK6fDr2r4) in Revisions/Requirement Analysis/Client Meeting/0605 - Client Meeting - End Iteration One
+Downloading 8 revisions for 0504-Requirements (1YgQhp4PANShCayG3IWLIIeErdmychKipHVbzDYXMkgo) in Revisions/Requirement Analysis/Client Meeting/0504-Requirements
+Downloading 5 revisions for 0515-Client Meeting (1DpUjUCjvvBrlsKJGK_xoC2Jo_LKDKzKK-2zA_tEBfDs) in Revisions/Requirement Analysis/Client Meeting/0515-Client Meeting
+Downloading 5 revisions for 0504-Question to ask (1aVd38ucpvoSWhM8JEHQ6wRhrPtujrDaOey3emuYuHUw) in Revisions/Requirement Analysis/Client Meeting/0504-Question to ask
+Downloading 2 revisions for 0424-Client Meeting-2 (1EMV0cQHanNLWhqpVpUnWC-57DDyZeyfLUyhUX7Zk6-U) in Revisions/Requirement Analysis/Client Meeting/0424-Client Meeting-2
+Downloading 3 revisions for 0408-Questions for the first meeting with clients (1aG-WS_XUychet2rSu15q9Qcu8uSGIka3xbGlJY3Dock) in Revisions/Requirement Analysis/Client Meeting/0408-Questions for the first meeting with clients
+Downloading 2 revisions for 0408-Initial Client Meeting (1mouBR69ZGOhoe02JdB-lqG-KQrCPk0Z2U5lkZvgkC6s) in Revisions/Requirement Analysis/Client Meeting/0408-Initial Client Meeting
+Downloading 4 revisions for 0410-Client Meeting (1ApBg_kOWXoXNMmDnLpMsSAFkhzJ5KjeL_5Kz-wZOjPk) in Revisions/Requirement Analysis/Client Meeting/0410-Client Meeting
+Downloading 2 revisions for 0424-Client Meeting (1ybmWPKU_6caZ37ZLYicygJldtg9KiYSIY7mApqQokd4) in Revisions/Requirement Analysis/Client Meeting/0424-Client Meeting
+Downloading 3 revisions for SRS Schedule (1qXX-pMQ_sNF-WpxHlOgQZK6JVQrJESypU4hi7pqh8As) in Revisions/Requirement Analysis/SRS Schedule
+Downloading 2 revisions for Use Cases for Administrator(Extension for future) (194iVZmJXmw7OWgXZBBmYHn9877ZPnPI1XSOw71Gi93A) in Revisions/Requirement Analysis/Use Cases draft/Use Cases for Administrator(Extension for future)
+Downloading 18 revisions for David-Use Cases (1k8D971OJwq7UJ2pZJdeEbs0VMi4wac3PpwxNuTws7Oo) in Revisions/Requirement Analysis/Use Cases draft/David-Use Cases
+Downloading 5 revisions for Use cases for Administrator (1zhElb1--tgLrkqnMVn5FY0RnglJ2I9fSk4GpZ1a-bnQ) in Revisions/Requirement Analysis/Use Cases draft/Use cases for Administrator
+Downloading 6 revisions for Use Cases for Participants (1-NOEAOxDGK10n6J6qCbrFP9TsunQRGAfvjYGWnhBOI4) in Revisions/Requirement Analysis/Use Cases draft/Use Cases for Participants
+Downloading 4 revisions for System Integration Architecture (1HNnBn2isHEFsymrPhuqny9q29jxmBL-3vkptvTz-6h8) in Revisions/System Integration Architecture
+Downloading 60 revisions for UI Design Plan (1k8tWJWuAfqFZQQKDK0BtT9A-O_f_YNUfKuEpsuStXbI) in Revisions/Development/UI Design Plan
+Downloading 88 revisions for Backend - Development Iteration Plan (1uLUVuJCMqeFEOguVLxjDbg-yVcnQkv1XflzVvWErqWU) in Revisions/Development/Backend - Development Iteration Plan
+Downloading 39 revisions for Development Plan (1qfrRi4nkPgSZ6jQYPmyT1PN059PWe5Xz4knaDYKFVzc) in Revisions/Development/Development Plan
+Downloading 3 revisions for Technical Meeting With Dave (1utVm-8mlTie63AZkbdfYAffrtESbdPqb_emrnFW09Ac) in Revisions/Development/Technical Meeting With Dave
+Downloading 3 revisions for Git flow (1vmw0cMLaZQj7QLkhARjzrZ0USSNmNSiUdYNBwG4kjAQ) in Revisions/Development/Git flow
+Downloading 33 revisions for xLabs Analytics Architecture & Design Document (1isy8JpxFF7l54qmv3__AXNjNuNJAunpxigZMwjJXc88) in Revisions/System Design/xLabs Analytics Architecture & Design Document
+Downloading 10 revisions for Back-end Algorithm Design (1gGDkeqxoTurm_90ZpnTUo_118Ho_jrPv5OOBli_Fkcg) in Revisions/System Design/Technical Documents/Back-end Algorithm Design
+Downloading 2 revisions for Cache Server (1Zc2SBgeF5Pbv6zRqhav8NugGQ3PY6BBQvzT0QkEmYuo) in Revisions/System Design/Technical Documents/Cache Server
+Downloading 2 revisions for Fixation Sequence (1_TAJkXdslkNgsQK8O0jgREWuf0FWDTvNAZ97r5M2jYI) in Revisions/System Design/Technical Documents/Fixation Sequence
+Downloading 27 revisions for Database Model Design (1AXLz3WmcuFR91KrPb44Yg4H8GPzb0cQBBsqtPi4LLRY) in Revisions/System Design/Database Model Design
+Downloading 6 revisions for REST API Specification (1covEVwaCxRvPuuUl3ndkr3VPkqUGB7boSGVo9qUgXP8) in Revisions/System Design/REST API Specification
+Downloading 21 revisions for Team Structure (1nzqKE2j3yWxtuRDs9aSZnUyDhKOQtanEv80lLFD0f_s) in Revisions/Team Structure
+Downloading 2 revisions for 0529-Architecture & Design Presentation (xLabs Analytics) (1R2SERwSBE2PaxPktdJKiCDUJBFj2sb5OvsSAnxNzxuE) in Revisions/Presentations/0529-Architecture & Design Presentation (xLabs Analytics)
+Downloading 2 revisions for Project Description (1pid6em0Bb96prjcc_bDuwqe0WPsBdum8NhToL4sDYQ0) in Revisions/Project Description
+Downloading 7 revisions for Configuration Management Third Party Dependency Version Control (1EBFJ11VuydzojnIxL-H4BSC10ut6CSqN5dk54ruZT18) in Revisions/Configuration Management/Configuration Management Third Party Dependency Version Control
+Downloading 4 revisions for xLabs Analytics Deployment Document (1NE9xucoKIKgQW7MjyLgZe112mv0vZeLl_QU9ZKuXJvg) in Revisions/Configuration Management/xLabs Analytics Deployment Document
+Downloading 33 revisions for Configuration Management Plan (19ugAgENYMIqLCxCHYovWK8qx7Jiwa-Oa_LCIRUi9Z0M) in Revisions/Configuration Management/Baselines/Configuration Management Plan
+Downloading 1 revisions for Copy of Requirements Tracking Doc (1tWwKYGeJpcCfaZ6xdDABL8fT3d_PMHMO5MJPBVnRY08) in Revisions/Configuration Management/Baselines/Baseline 5/Copy of Requirements Tracking Doc
+Downloading 2 revisions for Copy of Requirements Tracking Doc (14VOZZQcntf5WQ8xiMzO1BZg5mjK-cxWLMxjPuMjdTg8) in Revisions/Configuration Management/Baselines/Baseline 4/Copy of Requirements Tracking Doc
+Downloading 1 revisions for Copy of UI Design Plan (1Hh9nmVQMJm29XiEQ34jpvRxwMFqUb7gHMK4Pykz4HxI) in Revisions/Configuration Management/Baselines/Baseline 4/Copy of UI Design Plan
+Downloading 1 revisions for Copy of xLabs Analytics Architecture & Design Document (1kknOTlGNDUwfTu0gUbNki88kVWPjRCnQYJ1C9dpM4MQ) in Revisions/Configuration Management/Baselines/Baseline 4/Copy of xLabs Analytics Architecture & Design Document
+Downloading 1 revisions for Copy of Backend - Development Iteration Plan (1wEszQuOsb5MWYULnp1LA7o4YXnrzPdHGulgwSFSZaA4) in Revisions/Configuration Management/Baselines/Baseline 4/Copy of Backend - Development Iteration Plan
+Downloading 2 revisions for Copy of Requirements Tracking Document (1m28AWc5uuw30T9kKlW7oQgyNX7kNjjLpHWKGFBqs6T8) in Revisions/Configuration Management/Baselines/Baseline 4/Copy of Requirements Tracking Document
+Downloading 1 revisions for Copy of xLabs Analytics Architecture & Design Document (1Z1RaWk8REh7kCT6JjZQ_MMTi4vz3JRQ3U-cYhubK1UU) in Revisions/Configuration Management/Baselines/Baseline 3/Copy of xLabs Analytics Architecture & Design Document
+Downloading 1 revisions for Copy of Development Iteration Plan (1QPd6tEwI3gHjyIDHTqJ2RwG4DachLvw-kSJ3eXqmoos) in Revisions/Configuration Management/Baselines/Baseline 3/Copy of Development Iteration Plan
+Downloading 1 revisions for Copy of Software Requirement Specification (1ed5WZsBPJoseyWL-IyhHEVauUgrXuVA2oblp8FksYCo) in Revisions/Configuration Management/Baselines/Baseline 3/Copy of Software Requirement Specification
+Downloading 2 revisions for Copy of Software Requirement Specification (1n-x3vvxtvsCxneo-kAtiS8tTLe2KWRkCYBlG6G64e1U) in Revisions/Configuration Management/Baselines/Baseline 2/Copy of Software Requirement Specification
+Downloading 1 revisions for Copy of xLabs Analytics Architecture & Design Document (13XuqO7YwlUpLrPpYAeVZ1ebS0NURt7C5VlXxq-b__g0) in Revisions/Configuration Management/Baselines/Baseline 2/Copy of xLabs Analytics Architecture & Design Document
+Downloading 2 revisions for Copy of Development Iteration Plan (1OMSdBstZUVR0MhrOsNcv4Vafz-bXSWHzPxGg26P9hWY) in Revisions/Configuration Management/Baselines/Baseline 2/Copy of Development Iteration Plan
+Downloading 1 revisions for Copy of Development Plan (1e6PuZevwvanocGcV6A5WZW3vfTSTs_5OoXuyePYtcMQ) in Revisions/Configuration Management/Baselines/Baseline 1/Copy of Development Plan
+Downloading 1 revisions for Copy of xLabs Analytics Architecture & Design Document (1-jtwYQJUaSATtyh_sPW_gs-h5m-oMIQaBTHLi_nL6Ek) in Revisions/Configuration Management/Baselines/Baseline 1/Copy of xLabs Analytics Architecture & Design Document
+Downloading 8 revisions for Mockups - Admin (166K7elq68RqPQPHvBogLOqrxI-XFr2d06D74-vuOt6A) in Revisions/Mockups/Mockups - Admin
+Downloading 6 revisions for Mockups-Website Owner (1c35I6tQK1hrI1-RFQaXIq41pqKdXG8t8OotamiXw3g8) in Revisions/Mockups/Mockups-Website Owner
+Downloading 4 revisions for Mockups - Participants (14F7E7ZD8-cjK4uYwKk1_oX40gRYYFhN16rb7_asgj2I) in Revisions/Mockups/Mockups - Participants
+Downloading 3 revisions for 0923 - Team meeting (1lwOv0L3286MYdd-jTqSv2IDGz75i3GbHnAgJMMOn8Wk) in Revisions/Team Meeting/0923 - Team meeting
+Downloading 3 revisions for 0914 - Team meeting (1m1-MjfJ6r8J-0_7A3WtprWcN1sgvkq8hKSqZawWT_ws) in Revisions/Team Meeting/0914 - Team meeting
+Downloading 2 revisions for 0909 - Team meeting (12cEL6K5q8BMILvuPkpdIXbScYgyU2je4epQekLLu-Gg) in Revisions/Team Meeting/0909 - Team meeting
+Downloading 4 revisions for 0902 - Team meeting (1o6JEeIODJVo7byoLfLN2fGn08aviAdL4841hm_Ccb24) in Revisions/Team Meeting/0902 - Team meeting
+Downloading 3 revisions for 0826 - Team meeting (12j9HhMwHvSMxTaCB9vI3v3TR4-9PNsQRKD5xo6drttU) in Revisions/Team Meeting/0826 - Team meeting
+Downloading 2 revisions for 0823 - Team meeting (1JKNZXSnSYbkiY4UIohPkTe3fnMBUtN42h9YKjOiDIJo) in Revisions/Team Meeting/0823 - Team meeting
+Downloading 2 revisions for 0817 - Team meeting (1BbyTFcjSQMf75k8FkwKLSNUicO9e6W_dwI1MWZxDYpY) in Revisions/Team Meeting/0817 - Team meeting
+Downloading 4 revisions for 0816 - Team meeting (1HLKWmLAOvQm1ltQprbIrNy7k5ACDPTlgIN5yL5cB5Lk) in Revisions/Team Meeting/0816 - Team meeting
+Downloading 3 revisions for 0812 - Team Meeting (1XAemnpeJDBi0CqjsAGv4LD-sEEHIvYa70ZzVE405CR8) in Revisions/Team Meeting/0812 - Team Meeting
+Downloading 2 revisions for 0805 - Team Meeting (1ktKrFYVdgswP5_DbObsmBSzGs7ZLrrpp26EaKv64o-I) in Revisions/Team Meeting/0805 - Team Meeting
+Downloading 2 revisions for 0520-Team Meeting (1Fk0vuU6DWybAXfHA9C7N5PWuZ_ePHohX3RFKfUMNso4) in Revisions/Team Meeting/0520-Team Meeting
+Downloading 1 revisions for 0513-Team meeting (19DzjVq-JCx0HQRmVYHZFcDQ_w3832xbqASvH4hND27I) in Revisions/Team Meeting/0513-Team meeting
+Downloading 1 revisions for 0506-Team Meeting (1EC9fZcy9R7xM1ZbVjsXVPeLa0nmP5uPvuDhAejWUiUI) in Revisions/Team Meeting/0506-Team Meeting
+Downloading 1 revisions for 0503-dev-meeting (1nwpCRGtUJThgtBjgD-OFUrPAe9zNvRUQMGPFKnFgehM) in Revisions/Team Meeting/0503-dev-meeting
+Downloading 10 revisions for 0415-Team meeting note (190vXWzz1U93MLF6T8X3_5GAok5B-R9-_ow8H0X14K6s) in Revisions/Team Meeting/0415-Team meeting note
+Downloading 2 revisions for 0422 - Team meeting (1DX07tB2x0hXIbZ0TCIK9k2gPsn4v7ZE61t8EGtR4ZsM) in Revisions/Team Meeting/0422 - Team meeting
+Downloading 1 revisions for 0408-Online meeting (1e3aJcvTNmJUmov5sng9IWW-hSEQ1DOtD5aD7jQdMffc) in Revisions/Team Meeting/0408-Online meeting
+Downloading 2 revisions for Apache Hadoop.doc (1BO6H6lW4yojiId_iK3rG7S4wK2hZ8gviHfG53CN3lvQ) in Revisions/Resources/Apache Hadoop.doc
+Downloading 54 revisions for Risk Table (15pzcXxMOUIFKGurfZWk1HWrmpZNcgXN3HVP4fKEme9o) in Revisions/Risk Management/Risk Table
+Downloading 7 revisions for Risk Process Control (1H1YCtcZ46cIj4KLNWPMJeMUIFriQYODcZNu4q-rCwxs) in Revisions/Risk Management/Risk Process Control
+Downloading 13 revisions for Risk control (1ysfHK7Y6fh6en-VZ0Gw59gfE6OeBWEoJdjZ8BRMGMb4) in Revisions/Risk Management/Risk control
+Downloading 14 revisions for Risk Management Plan (1Q7SrvHXrw5VWzSGthof7zDZuo6MKSfnFDgWZ85wu3h8) in Revisions/Risk Management/Risk Management Plan
+Downloading 44 revisions for Quality Assurance Plan (1ysjCWQmXBSNC1K3EBjf9JC8gFtTx5Gg18ok4UqRj-eI) in Revisions/Quality Assurance/Quality Assurance Plan
+Downloading 24 revisions for Progress Control for QA (1tNiE3d-GiQg1NbIe2dJKM9tGgAkoLPLUdduzInx-MFY) in Revisions/Quality Assurance/Progress Control for QA
+Downloading 15 revisions for Meeting notes (1n5Ulw0EOez28ymL6NoIBXXqe7HNBsWbrUsI534Iih8g) in Revisions/Quality Assurance/Meeting notes
+Downloading 10 revisions for Documents review notes (1JgJrkuqiIKXt5r7K42rbaCLdqv2x42p-3zhO01LcUQ0) in Revisions/Quality Assurance/Review/Documents review notes
+Downloading 3 revisions for Review meeting report with requirements team (1Nrsrnj_Mqn5e9no10Zrap90ALnzUkHbtU3JQMAYOMhE) in Revisions/Quality Assurance/Review/Review meeting report with requirements team
+Downloading 76 revisions for Integration test report (1H6gie-rTDQHyHkqRT7UKUSYfUGBFzHKMh5jGrYVKjoo) in Revisions/Quality Assurance/Test/Integration test report
+Downloading 5 revisions for System(UI) test report (1fXbuYql6tc7Hf213KBr8WzjTp5XEcBJ2H3XyzSCXoss) in Revisions/Quality Assurance/Test/System(UI) test report
+Downloading 29 revisions for Test Plan (1xUtDkd0TxO3kkqQt2yEivLEZT4_eJvYt61tCjM5vS6I) in Revisions/Quality Assurance/Test/Test Plan
+Downloading 4 revisions for Manual test report (17S1axh-on3hUkB2UItthbdqj1F52w43O_wplxdvu_d8) in Revisions/Quality Assurance/Test/Manual test report
+Downloading 1 revisions for Document Template (1g2VbmsOggRQ4opks6008JMayLxHRM6GQqLz_gpu2rYw) in Revisions/Document Template
+Downloading 151 revisions for Weekly Task Allocation (1qOHXP9t17KnpRU4QMvMd0mfgc34-tDk8h5Xj4WJboA4) in Revisions/Project Management/Weekly Task Allocation
+Downloading 9 revisions for Project Management Plan (1zl22p0YpL6YqClnpyeU6OJW8uTsrx60JLa45rB5eSUI) in Revisions/Project Management/Project Management Plan
+Downloading 13 revisions for Project Schedule Overview (1DCXZ1jmcZ7dKqt-yX8pW66Z-WaTTiMsg4s5lCFet9_E) in Revisions/Project Management/Project Schedule Overview
+Downloading 10 revisions for Pre-project Plan (1Uv_7y4nh4Mmf7vOgxSoUYewX--UOblnS3qwW62NMepw) in Revisions/Project Management/Pre-project Plan
+Downloading 1 revisions for Midterm Feedback Schedule (14ml41h3EVCGwO_NPc3HaHR7XyEszYixCaOmUewL-Q9g) in Revisions/Project Management/Midterm Feedback Schedule
+
